@@ -1,0 +1,1 @@
+This project will be a recipe website. My focus while making this project will be to practice git commits and commit messages as the code develops.
